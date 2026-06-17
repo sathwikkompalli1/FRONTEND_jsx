@@ -1,0 +1,13 @@
+.html .body{
+  padding:0;
+  margin:0;
+}
+.hero{
+  background-color: aquamarine;
+  display: flex;
+  padding: 40px;
+}
+.hero-section{
+background-color: peru;
+padding: 20px;
+}
